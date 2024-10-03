@@ -1,7 +1,5 @@
 # MLGEO2024_LiangtongW
-#### *For course ESS 469 in UW, autunm 2024*
-
-Liangtong(Sry) Wei. 
+#### *For course ESS 469 in UW, autunm 2024, by Liangtong(Sry) Wei:*
 
 I'm interested in Oceanography-related topics such as sea-air interaction, heat flux interchange on different sea levels, mechanisms of extreme climates that are related to ocean current/ heat/ eddies, etc. 
 
@@ -10,24 +8,27 @@ Giamalaki, K., Beaulieu, C., & Prochaska, J. X. (2022). Assessing Predictability
 
 **It is open access with data and code.**
 
+
 ## Installing and activating this repository
 To clone and activate my repository, follow the steps below in your terminal:
 
 1. Clone the repository
-   
 ```
 git clone https://github.com/sryisjelly/MLGEO2024_LiangtongW.git
 ```
 
-3. Navigate to the repository
-   
-```cd MLGEO2024_LiangtongW```
+2. Navigate to the repository
+```
+cd MLGEO2024_LiangtongW
+```
 
-5. Activate the conda environment
-   
-```conda activate mlgeo-LiangtongW.yml```
+3. Activate the conda environment
+```
+conda activate mlgeo-LiangtongW.yml
+```
 
 Your environment is now ready and activated!
+
 
 ## Git add/commit/push demonstration
 This PDF contains a demonstration of how to add/commit/push to this repository
