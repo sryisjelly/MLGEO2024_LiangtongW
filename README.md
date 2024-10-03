@@ -15,7 +15,9 @@ To clone and activate my repository, follow the steps below in your terminal:
 
 1. Clone the repository
    
-```git clone https://github.com/sryisjelly/MLGEO2024_LiangtongW.git```
+```
+git clone https://github.com/sryisjelly/MLGEO2024_LiangtongW.git
+```
 
 3. Navigate to the repository
    
