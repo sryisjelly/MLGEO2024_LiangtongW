@@ -22,7 +22,12 @@ git clone https://github.com/sryisjelly/MLGEO2024_LiangtongW.git
 cd MLGEO2024_LiangtongW
 ```
 
-3. Activate the conda environment
+3. create conda environment
+```
+conda env create -n bencohen_env -f mlgeo-LiangtongW.yml
+```
+
+4. Activate the conda environment
 ```
 conda activate mlgeo-LiangtongW.yml
 ```
