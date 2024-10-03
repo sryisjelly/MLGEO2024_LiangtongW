@@ -1,0 +1,18 @@
+name: mlgeo-LiangtongW
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - rasterio
+  - xarray
+  - geopandas
+  - jupyterlab
+  - rioxarray
+  - gdal
+  - earthengine-api
+  - geemap
