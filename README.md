@@ -3,7 +3,7 @@
 
 Liangtong(Sry) Wei. 
 
-I'm interested in Oceanography-related topics such as sea-air interaction, heat flux interchange on different sea levels, mechenisms of extreme climates that are related to ocean current/ heat/ eddies, etc. 
+I'm interested in Oceanography-related topics such as sea-air interaction, heat flux interchange on different sea levels, mechanisms of extreme climates that are related to ocean current/ heat/ eddies, etc. 
 
 For now, I'm specifically interested in reproducing the result in 
 Giamalaki, K., Beaulieu, C., & Prochaska, J. X. (2022). Assessing Predictability of Marine Heatwaves With Random Forests. Geophysical Research Letters, 49(23), e2022GL099069. https://doi.org/10.1029/2022GL099069
@@ -13,13 +13,13 @@ Giamalaki, K., Beaulieu, C., & Prochaska, J. X. (2022). Assessing Predictability
 ## Installing and activating this repository
 To clone and activate my repository, follow the steps below in your terminal:
 
-### Clone the repository
+1. Clone the repository
 ```git clone https://github.com/sryisjelly/MLGEO2024_LiangtongW.git```
 
-### Navigate to the repository
+2. Navigate to the repository
 ```cd MLGEO2024_LiangtongW```
 
-### Activate the conda environment
+3. Activate the conda environment
 ```conda activate mlgeo-LiangtongW.yml```
 
 Your environment is now ready and activated!
