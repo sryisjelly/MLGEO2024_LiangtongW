@@ -14,12 +14,15 @@ Giamalaki, K., Beaulieu, C., & Prochaska, J. X. (2022). Assessing Predictability
 To clone and activate my repository, follow the steps below in your terminal:
 
 1. Clone the repository
+   
 ```git clone https://github.com/sryisjelly/MLGEO2024_LiangtongW.git```
 
-2. Navigate to the repository
+3. Navigate to the repository
+   
 ```cd MLGEO2024_LiangtongW```
 
-3. Activate the conda environment
+5. Activate the conda environment
+   
 ```conda activate mlgeo-LiangtongW.yml```
 
 Your environment is now ready and activated!
