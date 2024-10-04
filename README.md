@@ -24,7 +24,7 @@ cd MLGEO2024_LiangtongW
 
 3. create conda environment
 ```
-conda env create -n bencohen_env -f mlgeo-LiangtongW.yml
+conda env create -n lw_env -f mlgeo-LiangtongW.yml
 ```
 
 4. Activate the conda environment
