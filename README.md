@@ -29,7 +29,7 @@ conda env create -n lw_env -f mlgeo-LiangtongW.yml
 
 4. Activate the conda environment
 ```
-conda activate mlgeo-LiangtongW.yml
+conda activate lw_env
 ```
 
 Your environment is now ready and activated!
