@@ -35,7 +35,7 @@ conda activate lw_env
 Your environment is now ready and activated!
 
 ## Git clone & add/commit/push demonstration
-
+This [PDF](https://github.com/sryisjelly/MLGEO2024_LiangtongW/blob/ff93b7bcbc492849efaefa6f460ad8e1ee6d0b14/demonstration%20of%20git%20clone%20and%20add%3Acommit%3Apush.pdf) contains a demonstration of how to add/commit/push to this repository
 
 ## Licensing
 I chose to use the MIT license template as it is straightforward and allows for use of the data and code in my repository while maintaining warranty/liability protections.
