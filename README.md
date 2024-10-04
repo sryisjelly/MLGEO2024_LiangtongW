@@ -35,9 +35,7 @@ conda activate lw_env
 Your environment is now ready and activated!
 
 ## Git clone & add/commit/push demonstration
-![Git clone demonstration](https://github.com/sryisjelly/MLGEO2024_LiangtongW/blob/516a6eb7e59a8c576d3b8bc37e08c500dfc4699d/Screenshot%202024-10-03%20at%2019.19.38.png)
 
-![Git add/commit/push demonstration](https://github.com/sryisjelly/MLGEO2024_LiangtongW/blob/516a6eb7e59a8c576d3b8bc37e08c500dfc4699d/Screenshot%202024-10-03%20at%2020.29.32.png)
 
 ## Licensing
 I chose to use the MIT license template as it is straightforward and allows for use of the data and code in my repository while maintaining warranty/liability protections.
